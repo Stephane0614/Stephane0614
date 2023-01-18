@@ -18,8 +18,7 @@ Je travaille en local sur des petits projets pour me perfectionner et m'auto-for
 ## Mes stacks
 
 <!-- ![Alt text](./img/html.svg "html") -->
-<img align="center" alt="html" width="40px" src="./img/html.svg" />
-<img align="center" alt="css" width="40px" src="./img/css3.svg" />
+<img align="center" alt="html" width="40px" src="./img/html.svg" /><img align="center" alt="css"width="40px" src="./img/css3.svg" />
 <img align="center" alt="sass" width="40px" src="./img/sass.svg" />
 <img align="center" alt="javascript" width="40px" src="./img/javascript.svg" />
 <img align="center" alt="typescript" width="40px" src="./img/typescript.svg" />
