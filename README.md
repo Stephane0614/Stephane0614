@@ -1,12 +1,4 @@
 # Stephane0614
-
-deleted: true
-tags: [Import-750c, Qui suis-je]
-title: Bienvenue sur mon GitHub
-created: '2023-09-29T12:17:05.717Z'
-modified: '2022-09-29T13:00:22.117Z'
----
-
 # Bienvenue sur mon GitHub
 
 ## Qui suis-je ?
@@ -26,49 +18,49 @@ Je travaille en local sur des petits projets pour me perfectionner et m'auto-for
 ## Mes stacks
 
 <!-- ![Alt text](./img/html.svg "html") -->
-<img align="center" alt="html" width="40px" src="../img/html.svg" />
-<img align="center" alt="css" width="40px" src="../img/css3.svg" />
-<img align="center" alt="sass" width="40px" src="../img/sass.svg" />
-<img align="center" alt="javascript" width="40px" src="../img/javascript.svg" />
-<img align="center" alt="typescript" width="40px" src="../img/typescript.svg" />
-<img align="center" alt="php" width="80px" src="../img/PHP.svg" />
-<img align="center" alt="java" width="80px" src="../img/Java.svg" />
-<img align="center" alt="mysql" width="80px" src="../img/mysql.svg" />
+<img align="center" alt="html" width="40px" src="./img/html.svg" />
+<img align="center" alt="css" width="40px" src="./img/css3.svg" />
+<img align="center" alt="sass" width="40px" src="./img/sass.svg" />
+<img align="center" alt="javascript" width="40px" src="./img/javascript.svg" />
+<img align="center" alt="typescript" width="40px" src="./img/typescript.svg" />
+<img align="center" alt="php" width="80px" src="./img/PHP.svg" />
+<img align="center" alt="java" width="80px" src="./img/Java.svg" />
+<img align="center" alt="mysql" width="80px" src="./img/mysql.svg" />
 <br>
-<img align="center" alt="mysql" width="80px" src="../img/ibm.png" />
-<img align="center" alt="bootstrap" width="70px" src="../img/unity3d-ar21.png" />
-<img align="center" alt="bootstrap" width="40px" src="../img/blender.png" />
-<img align="center" alt="bootstrap" width="40px" src="../img/bootstrap.svg" />
-<img align="center" alt="composer" width="40px" src="../img/composer.svg" />
-<img align="center" alt="nodeJs" width="60px" src="../img/nodejs.svg" />
+<img align="center" alt="mysql" width="80px" src="./img/ibm.png" />
+<img align="center" alt="bootstrap" width="70px" src="./img/unity3d-ar21.png" />
+<img align="center" alt="bootstrap" width="40px" src="./img/blender.png" />
+<img align="center" alt="bootstrap" width="40px" src="./img/bootstrap.svg" />
+<img align="center" alt="composer" width="40px" src="./img/composer.svg" />
+<img align="center" alt="nodeJs" width="60px" src="./img/nodejs.svg" />
 
 <br>
-<img align="center" alt="git" width="60px" src="../img/git-orange.svg" />
-<img align="center" alt="github" width="80px" src="../img/GitHub.svg" />
+<img align="center" alt="git" width="60px" src="./img/git-orange.svg" />
+<img align="center" alt="github" width="80px" src="./img/GitHub.svg" />
 
 ## Mon softs
 
-<img align="center" alt="ubuntu" width="40px" src="../img/Ubuntu.svg" />
-<img align="center" alt="ubuntu" width="40px" src="../img/iconIntelij.jpg" />
-<img align="center" alt="vscode=" width="40px" src="../img/vscode.svg" />
-<img align="center" alt="phpstorm" width="40px" src="../img/phpstorm.svg" />
-<img align="center" alt="phpstorm" width="40px" src="../img/mocha.png" />
+<img align="center" alt="ubuntu" width="40px" src="./img/Ubuntu.svg" />
+<img align="center" alt="ubuntu" width="40px" src="./img/iconIntelij.jpg" />
+<img align="center" alt="vscode=" width="40px" src="./img/vscode.svg" />
+<img align="center" alt="phpstorm" width="40px" src="./img/phpstorm.svg" />
+<img align="center" alt="phpstorm" width="40px" src="./img/mocha.png" />
 
 ## Mes projets de stacks à étudier
 
-<img align="center" alt="python" width="40px" src="../img/python.svg" />
-<img align="center" alt="docker" width="60px" src="../img/docker.svg" />
-<img align="center" alt="PostGreSQL" width="80px" src="../img/PostgreSQL.svg" />
+<img align="center" alt="python" width="40px" src="./img/python.svg" />
+<img align="center" alt="docker" width="60px" src="./img/docker.svg" />
+<img align="center" alt="PostGreSQL" width="80px" src="./img/PostgreSQL.svg" />
 
 ## Mes stats
 
 ![Stephane0614's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephane0614&show_icons=true&theme=onedark&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephane0614&layout=compact&count-private=true&theme=onedark)](https://github.com/Stephane0614/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephane0614&layout=compact&count-private=true&theme=onedark)](https://github.com/Stephane0614)
 
 ## Mes profils sociaux
 
 <a href="https://www.linkedin.com/in/stephane-nsimba-29b0a923b/">
-    <img align="center" alt="Linkedin" width="40px" src="../img/linkedin.svg" />
+    <img align="center" alt="Linkedin" width="40px" src="./img/linkedin.svg" />
 </a>
 
 
