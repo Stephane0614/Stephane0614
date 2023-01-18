@@ -18,7 +18,8 @@ Je travaille en local sur des petits projets pour me perfectionner et m'auto-for
 ## Mes stacks
 
 <!-- ![Alt text](./img/html.svg "html") -->
-<img align="center" alt="html" width="40px" src="./img/html.svg" /><img align="center" alt="css"width="40px" src="./img/css3.svg" />
+<img align="center" alt="html" width="40px" src="./img/html.svg" />
+<img align="center" alt="css" width="40px" src="./img/css3.svg" />
 <img align="center" alt="sass" width="40px" src="./img/sass.svg" />
 <img align="center" alt="javascript" width="40px" src="./img/javascript.svg" />
 <img align="center" alt="typescript" width="40px" src="./img/typescript.svg" />
@@ -53,8 +54,8 @@ Je travaille en local sur des petits projets pour me perfectionner et m'auto-for
 
 ## Mes stats
 
-![Stephane0614's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephane0614&show_icons=true&theme=onedark&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephane0614&layout=compact&count-private=true&theme=onedark)](https://github.com/Stephane0614)
+<!-- ![Stephane0614's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephane0614&show_icons=true&theme=onedark&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephane0614&layout=compact&count-private=true&theme=onedark)](https://github.com/Stephane0614/) -->
 
 ## Mes profils sociaux
 
