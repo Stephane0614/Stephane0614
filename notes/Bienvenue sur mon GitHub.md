@@ -32,6 +32,7 @@ Je travaille en local sur des petits projets pour me perfectionner et m'auto-for
 <img align="center" alt="typescript" width="40px" src="../img/typescript.svg" />
 <img align="center" alt="php" width="80px" src="../img/PHP.svg" />
 <img align="center" alt="java" width="80px" src="../img/Java.svg" />
+<img align="center" alt="java" width="40px" src="../img/angular.svg" />
 <img align="center" alt="mysql" width="80px" src="../img/mysql.svg" />
 <br>
 <img align="center" alt="mysql" width="80px" src="../img/ibm.png" />
