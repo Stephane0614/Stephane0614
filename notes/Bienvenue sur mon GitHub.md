@@ -2,8 +2,7 @@
 deleted: true
 tags: [Import-750c, Qui suis-je]
 title: Bienvenue sur mon GitHub
-created: '2023-09-29T12:17:05.717Z'
-modified: '2022-09-29T13:00:22.117Z'
+
 ---
 
 # Bienvenue sur mon GitHub
@@ -32,12 +31,12 @@ Je travaille en local sur des petits projets pour me perfectionner et m'auto-for
 <img align="center" alt="typescript" width="40px" src="../img/typescript.svg" />
 <img align="center" alt="php" width="80px" src="../img/PHP.svg" />
 <img align="center" alt="java" width="80px" src="../img/Java.svg" />
-<img align="center" alt="java" width="40px" src="../img/angular.svg" />
+<img align="center" alt="angul" width="40px"src="../img/angular.svg"/>
 <img align="center" alt="mysql" width="80px" src="../img/mysql.svg" />
 <br>
 <img align="center" alt="mysql" width="80px" src="../img/ibm.png" />
-<img align="center" alt="bootstrap" width="70px" src="../img/unity3d-ar21.png" />
-<img align="center" alt="bootstrap" width="40px" src="../img/blender.png" />
+<img align="center" alt="unity" width="70px" src="../img/unity3d-ar21.png" />
+<img align="center" alt="blender" width="40px" src="../img/blender.png" />
 <img align="center" alt="bootstrap" width="40px" src="../img/bootstrap.svg" />
 <img align="center" alt="composer" width="40px" src="../img/composer.svg" />
 <img align="center" alt="nodeJs" width="60px" src="../img/nodejs.svg" />
