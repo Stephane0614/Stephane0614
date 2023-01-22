@@ -18,26 +18,11 @@ Je travaille en local sur des petits projets pour me perfectionner et m'auto-for
 ## Mes stacks
 
 <!-- ![Alt text](./img/html.svg "html") -->
-<img align="center" alt="html" width="40px" src="./img/html.svg" />
-<img align="center" alt="css" width="40px" src="./img/css3.svg" />
-<img align="center" alt="sass" width="40px" src="./img/sass.svg" />
-<img align="center" alt="javascript" width="40px" src="./img/javascript.svg" />
-<img align="center" alt="typescript" width="40px" src="./img/typescript.svg" />
-<img align="center" alt="php" width="80px" src="./img/PHP.svg" />
-<img align="center" alt="java" width="80px" src="./img/Java.svg" />
-<img align="center" alt="angul" width="40px"src="./img/angular.svg"/>
-<img align="center" alt="mysql" width="80px" src="./img/mysql.svg" />
+<img align="center" alt="html" width="40px" src="./img/html.svg" /><img align="center" alt="css" width="40px" src="./img/css3.svg" /><img align="center" alt="sass" width="40px" src="./img/sass.svg" /><img align="center" alt="javascript" width="40px" src="./img/javascript.svg" /><img align="center" alt="typescript" width="40px" src="./img/typescript.svg" /><img align="center" alt="php" width="80px" src="./img/PHP.svg" /><img align="center" alt="java" width="80px" src="./img/Java.svg" /><img align="center" alt="angul" width="40px" src="./img/angular.svg"/> <img align="center" alt="mysql" width="80px" src="./img/mysql.svg" />
 <br>
-<img align="center" alt="mysql" width="80px" src="./img/ibm.png" />
-<img align="center" alt="unity" width="70px" src="./img/unity3d-ar21.png" />
-<img align="center" alt="blender" width="40px" src="./img/blender.png" />
-<img align="center" alt="bootstrap" width="40px" src="./img/bootstrap.svg" />
-<img align="center" alt="composer" width="40px" src="./img/composer.svg" />
-<img align="center" alt="nodeJs" width="60px" src="./img/nodejs.svg" />
-
+<img align="center" alt="mysql" width="80px" src="./img/ibm.png" /><img align="center" alt="unity" width="70px" src="./img/unity3d-ar21.png" /><img align="center" alt="blender" width="40px" src="./img/blender.png" /><img align="center" alt="bootstrap" width="40px" src="./img/bootstrap.svg" /><img align="center" alt="composer" width="40px" src="./img/composer.svg" /><img align="center" alt="nodeJs" width="60px" src="./img/nodejs.svg" />
 <br>
-<img align="center" alt="git" width="60px" src="./img/git-orange.svg" />
-<img align="center" alt="github" width="80px" src="./img/GitHub.svg" />
+<img align="center" alt="git" width="60px" src="./img/git-orange.svg" /><img align="center" alt="github" width="80px" src="./img/GitHub.svg" />
 
 ## Mon softs
 
